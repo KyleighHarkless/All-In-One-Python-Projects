@@ -33,7 +33,7 @@ b3 = Button(root, text="Open", command=open_file)
 b3.place(x=120, y=10)
 
 entry = Text(root, height=60, width=70, wrap=WORD, bg="black", fg="yellow", selectbackground="red",
-             font="Courier 15", insertbackground="violet")
+             font="Calibri", insertbackground="violet")
 entry.place(x=10, y=50)
 
 root.mainloop()
