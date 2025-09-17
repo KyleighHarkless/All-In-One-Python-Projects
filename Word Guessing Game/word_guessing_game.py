@@ -29,7 +29,7 @@ def guessing_game():
     print("Thanks for playing!")
 
 def easy_difficulty(margin):
-    easy_words = ["onyx", "brim", "wisp", "spire", "crypt","rune", "veil", "muse", "gale", "hymn"]
+    easy_words = ["onyx", "brim", "wisp", "spire", "crypt","rune", "veil", "muse", "gale", "hymn", "rage"]
 
     e_word = random.choice(easy_words)
 
